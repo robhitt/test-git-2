@@ -1,0 +1,3 @@
+def first_last(first, last)
+	puts "Hello #{first} #{last}, how are you?"
+end
